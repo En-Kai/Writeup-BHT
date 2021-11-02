@@ -6,7 +6,6 @@
   Tổng quát với dạng mũ n.
   
   Ta có 2 trường hợp của m là m chẵn và m lẽ. Nếu m chẵn thì có thể đưa 
-  
   về dạng (x^(n/2))^2. Còn m nếu lẽ thì tách thành mũ chẵn nhân mũ lẻ rồi làm phần mũ chẵn như đã trình bày.
   
   Làm như vậy cho đến khi nào số mũ còn lại là 1 -> kết thúc.
