@@ -80,7 +80,6 @@ int main() {
 ![image](https://user-images.githubusercontent.com/91708234/139797518-1a58ad65-3c64-4dc2-86e3-f352be0ef82a.png)
 ## Ý tưởng
 	Dễ thấy tử số của số hạng sau bằng x lần tử số của số hạng trước 
-	
 	và mẫu số của số hạng sau bằng mẫu số của số hạng trước cộng thêm n ( n là số mũ của tử số )
 	
 	Vậy ta chỉ cần lần lượt tăng tử số và mẫu số lên để có được số hạng và cộng các số hạng lại với nhau để được kết quả.
@@ -328,7 +327,8 @@ int main() {
 ## Code
 	Ở đây mình sử dụng điều kiện vòng lặp là n > 1 
 	vì nếu n=1 thì chuyển ngay sang bước in kết quả.
-	Gia trị 1 đại diện cho đúng và 0 đại diện cho sai.
+	
+	Giá trị 1 đại diện cho đúng và 0 đại diện cho sai.
 ```cpp
 #include <iostream>
 using namespace std;
