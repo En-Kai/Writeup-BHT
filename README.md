@@ -106,7 +106,8 @@ int main() {
 ```
 
 # Câu 4
-![image](https://user-images.githubusercontent.com/91708234/139797977-08c70e03-c793-4202-b282-9ed3be07ed8b.png)
+![image](https://user-images.githubusercontent.com/91708234/140054805-ef35ce60-86fd-4b63-9d71-889103bd6880.png)
+
 
 ## Ý tưởng
 	Dễ thấy số hạng sau bằng số hạng trước nhân thêm -x*x. 
